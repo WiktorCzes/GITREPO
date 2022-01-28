@@ -1,2 +1,2 @@
 print ("Cześć jestem Wiktor")
-print ("A tu przedstawia się kolega")
+print ("A ja jestem Viktor")
